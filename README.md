@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">👨‍🎓 Estudante de programação desde 2021<br>🚀 Buscando oportunidade de estágio para aplicar e expandir meus conhecimentos.  <br>👨‍💻 Atualmente focado em Angular (Front-end) e Java (Back-end)<br>💻🐶 Apaixonado na área e no meu cachorro!<br><br>E é claro, mantendo o aprendizado contínuo, para entregar as melhores soluções e me aprimorar sempre!</p>
+<p align="left">👨‍🎓 Graduando em Desenvolvimento de Software Multiplataforma (2024-2026). <br> 📚 Estudando de programação desde 2021<br>🚀 Buscando oportunidade de estágio para aplicar e expandir meus conhecimentos.  <br>👨‍💻 Atualmente focado em Angular (Front-end) e Java (Back-end)<br>💻🐶 Apaixonado pela área e no meu cachorro!<br><br>E é claro, mantendo o aprendizado contínuo, para entregar as melhores soluções e me aprimorar sempre!</p>
 
 ###
 
@@ -53,6 +53,19 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
+
+## Principais projetos
+
+<div align=center>
+   <span><a href="https://github.com/MathGueff/FrontEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=FrontEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=576fe5&hide_border=true&icon_color=6353e9&show_icons=true" alt="frontend-saneasp"></a>
+</span>
+  <span><a href="https://github.com/MathGueff/FrontEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=BackEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=d26a75&hide_border=true&icon_color=de5e75&show_icons=true" alt="frontend-saneasp"></a></span>
+  <span><a href="https://github.com/MathGueff/FrontEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=saneasp-documentation&theme=blueberry&bg_color=1F222E&title_color=b991cf&hide_border=true&icon_color=bf69d3&show_icons=true" alt="frontend-saneasp"></a></span>
+
+
+
+</div>
+
 
 ###
 
