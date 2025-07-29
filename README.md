@@ -7,10 +7,10 @@
 ###
 
 <p align="left">
-  👨‍🎓 Undergraduate in Multiplatform Software Development (2024–2026). <br>
-  📚 Studying programming since 2021 <br>
-  🚀 Seeking an internship opportunity to apply and expand my knowledge. <br>
-  👨‍💻 Currently focused on Angular (Front-end) and Java (Back-end) <br>
+  👨‍🎓 Pursuing a degree in Multiplatform Software Development at Fatec Votorantim (2024-2026) <br>
+  📚 Programming since 2021 <br>
+  🚀 Looking for an internship to improve my skills, apply my knowledge and contribute to the team. <br>
+  👨‍💻 Currently studying Angular (Front-end) and Java (Back-end) <br>
   💻🐶 Passionate about technology and my dog! <br><br>
   And of course, committed to continuous learning to deliver the best result and keep improving
 </p>
@@ -55,10 +55,11 @@
 ## Main projects
 
 <div align=center>
+  <span><a href="https://github.com/MathGueff/SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=SaneaSP&theme=blueberry&bg_color=1F222E&title_color=b991cf&hide_border=true&icon_color=bf69d3&show_icons=true" alt=saneasp"></a></span>
    <span><a href="https://github.com/MathGueff/FrontEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=FrontEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=576fe5&hide_border=true&icon_color=6353e9&show_icons=true" alt="frontend saneasp"></a>
 </span>
   <span><a href="https://github.com/MathGueff/BackEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=BackEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=d26a75&hide_border=true&icon_color=de5e75&show_icons=true" alt="backend saneasp"></a></span>
-  <span><a href="https://github.com/MathGueff/SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=SaneaSP&theme=blueberry&bg_color=1F222E&title_color=b991cf&hide_border=true&icon_color=bf69d3&show_icons=true" alt="documentation saneasp"></a></span>
+  
 </div>
 
 
