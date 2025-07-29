@@ -1,4 +1,4 @@
-<h2 align="center">Matheus Augusto Santos Gueff</h2>
+<h1 align="left">Bem vindo!</h2>
 
 ###
 
@@ -10,11 +10,7 @@
 
 ###
 
-<h2 align="left">Minhas tecnologias</h2>
-
-###
-
-<h4 align="left">Maior conhecimento</h4>
+<h2 align="left">Tecnologias</h2>
 
 ###
 
@@ -36,22 +32,20 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-</div>
-
-###
-
-<h4 align="left">Conhecimento básico</h4>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" height="40" alt="trello logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
+
+###
+
+<div align="left">
+  
 </div>
 
 ## Principais projetos
@@ -61,9 +55,6 @@
 </span>
   <span><a href="https://github.com/MathGueff/BackEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=BackEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=d26a75&hide_border=true&icon_color=de5e75&show_icons=true" alt="backend saneasp"></a></span>
   <span><a href="https://github.com/MathGueff/saneasp-documentation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=saneasp-documentation&theme=blueberry&bg_color=1F222E&title_color=b991cf&hide_border=true&icon_color=bf69d3&show_icons=true" alt="documentation saneasp"></a></span>
-
-
-
 </div>
 
 
@@ -74,8 +65,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathGueff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathGueff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathGueff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MathGueff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
 </div>
 
 ###
@@ -84,10 +75,14 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <a href="https://www.linkedin.com/in/matheus-gueff-b74949311/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin bagde">
+  </a>
+  <a href="mailto:gueffmatheus@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail bagde">
   </a>
 </div>
+
 
 ###
