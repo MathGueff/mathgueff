@@ -1,16 +1,24 @@
-<h1 align="left">Bem vindo!</h2>
+<h1 align="left">Welcome!</h2>
 
 ###
 
-<h2 align="left">Sobre mim</h2>
+<h2 align="left">About me</h2>
 
 ###
 
-<p align="left">👨‍🎓 Graduando em Desenvolvimento de Software Multiplataforma (2024-2026). <br> 📚 Estudando de programação desde 2021<br>🚀 Buscando oportunidade de estágio para aplicar e expandir meus conhecimentos.  <br>👨‍💻 Atualmente focado em Angular (Front-end) e Java (Back-end)<br>💻🐶 Apaixonado pela área e no meu cachorro!<br><br>E é claro, mantendo o aprendizado contínuo, para entregar as melhores soluções e me aprimorar sempre!</p>
+<p align="left">
+  👨‍🎓 Undergraduate in Multiplatform Software Development (2024–2026). <br>
+  📚 Studying programming since 2021 <br>
+  🚀 Seeking an internship opportunity to apply and expand my knowledge. <br>
+  👨‍💻 Currently focused on Angular (Front-end) and Java (Back-end) <br>
+  💻🐶 Passionate about technology and my dog! <br><br>
+  And of course, committed to continuous learning to deliver the best result and keep improving
+</p>
+
 
 ###
 
-<h2 align="left">Tecnologias</h2>
+<h2 align="left">Technologies</h2>
 
 ###
 
@@ -44,23 +52,19 @@
 
 ###
 
-<div align="left">
-  
-</div>
-
-## Principais projetos
+## Main projects
 
 <div align=center>
-   <span><a href="https://github.com/MathGueff/FrontEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=FrontEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=576fe5&hide_border=true&icon_color=6353e9&show_icons=true" alt="frontend saneasp"></a>
+   <span><a href="https://github.com/MathGueff/FrontEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=FrontEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=576fe5&hide_border=true&icon_color=6353e9&show_icons=true" alt="frontend saneasp"></a>
 </span>
   <span><a href="https://github.com/MathGueff/BackEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=BackEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=d26a75&hide_border=true&icon_color=de5e75&show_icons=true" alt="backend saneasp"></a></span>
-  <span><a href="https://github.com/MathGueff/saneasp-documentation"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=saneasp-documentation&theme=blueberry&bg_color=1F222E&title_color=b991cf&hide_border=true&icon_color=bf69d3&show_icons=true" alt="documentation saneasp"></a></span>
+  <span><a href="https://github.com/MathGueff/SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=SaneaSP&theme=blueberry&bg_color=1F222E&title_color=b991cf&hide_border=true&icon_color=bf69d3&show_icons=true" alt="documentation saneasp"></a></span>
 </div>
 
 
 ###
 
-<h2 align="left">Meus status</h2>
+<h2 align="left">Stats</h2>
 
 ###
 
@@ -71,7 +75,7 @@
 
 ###
 
-<h2 align="left">Contatos</h2>
+<h2 align="left">Contacts</h2>
 
 ###
 
