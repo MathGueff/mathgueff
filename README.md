@@ -13,6 +13,7 @@ Iniciei minha jornada na programação em 2021, durante o curso Técnico em Dese
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma na Fatec Votorantim
 - 🚀 Priorizando meus estudos em Back-end com NestJS, Node.js e MongoDB
 - 🌱 Estudando boas práticas e me aprofundando em arquitetura de software
+- 🐱🐶 Tenho um gato e um cachorro
 
 ```
 
