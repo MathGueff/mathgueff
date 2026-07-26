@@ -1,93 +1,56 @@
-<h1 align="left">Welcome!</h2>
+<a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=1050&height=100&repeat=false&backgroundOpacity=0&center=false&border=false&cursorStyle=underline&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Matheus+Gueff%2C+Desenvolvedor+Back-end%22%2C%22font%22%3A%22Exo+2%22%2C%22color%22%3A%22%2336f2e3%22%2C%22fontSize%22%3A36%2C%22letterSpacing%22%3A%220.2%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.02%2C%22fontWeight%22%3A%22500%22%7D%5D" alt="Matheus Gueff, Desenvolvedor Back-end" /></a>
 
-###
+Iniciei minha jornada no Desenvolvimento de Software em 2021 durante o curso de Desenvolvimento de Sistemas. Atualmente estudo Desenvolvimento de Software Multiplataforma e trabalho como Desenvolvedor Back-end Júnior desenvolvendo APIs robustas, soluções escaláveis e documentações que contribuem para a produtividade e a colaboração da equipe.
 
-<h2 align="left">About me</h2>
+### Sobre mim
 
-###
+- 💼 Desenvolvedor Back-end Júnior
+- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na Fatec Votorantim
+- 🚀 Priorizando meus estudos em Back-end com NestJS, Node.js e MongoDB
+- 🌱 Estudando boas práticas e me aprofundando em arquitetura de software
 
-<p align="left">
-  👨‍🎓 Pursuing a degree in Multiplatform Software Development at Fatec Votorantim (2024-2026) <br>
-  📚 Programming since 2021 <br>
-  🚀 Looking for an internship to improve my skills, apply my knowledge and contribute to the team. <br>
-  👨‍💻 Currently studying Angular (Front-end) and Java (Back-end) <br>
-  💻🐶 Passionate about technology and my dog! <br><br>
-  And of course, committed to continuous learning to deliver the best result and keep improving
-</p>
+---
+### Minhas principais tecnologias
 
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+### Algumas outras tecnologias que tive contato
 
-###
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-<h2 align="left">Technologies</h2>
+---
 
-###
+### Meus principais projetos
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
-</div>
+[![FrontEnd SaneaSP](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=FrontEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=3FE0D0&hide_border=true&icon_color=29C7B8&show_icons=true)](https://github.com/MathGueff/FrontEnd-SaneaSP)
+[![BackEnd SaneaSP](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=BackEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=FF4FA3&hide_border=true&icon_color=FF2D86&show_icons=true)](https://github.com/MathGueff/BackEnd-SaneaSP)
+[![PvZ Adventures](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=PvZ-Adventures-Fanmade&theme=blueberry&bg_color=1F222E&title_color=A66BFF&hide_border=true&icon_color=8A4FFF&show_icons=true)](https://github.com/MathGueff/PvZ-Adventures-Fanmade)
 
-###
+---
 
-## Main projects
+### Algumas estatísticas:
 
-<div align=center>
-  <span><a href="https://github.com/MathGueff/SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=SaneaSP&theme=blueberry&bg_color=1F222E&title_color=b991cf&hide_border=true&icon_color=bf69d3&show_icons=true" alt=saneasp"></a></span>
-  <span><a href="https://github.com/MathGueff/Frontend-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=FrontEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=576fe5&hide_border=true&icon_color=6353e9&show_icons=true" alt="frontend saneasp"></a>
-</span>
-  <span><a href="https://github.com/MathGueff/BackEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=BackEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=d26a75&hide_border=true&icon_color=de5e75&show_icons=true" alt="backend saneasp"></a></span>
-<span><a href="https://github.com/MathGueff/PvZ-Adventures-Fanmade"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=PvZ-Adventures-Fanmade&theme=blueberry&bg_color=1F222E&title_color=38c93d&hide_border=true&icon_color=127015&show_icons=true" alt="backend saneasp"></a></span>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MathGueff&rank_icon=github&custom_title=Meus%20Status%20&show_icons=true&include_all_commits=true&theme=rose_pine)](https://github-stats-extended.vercel.app/api?username=MathGueff&rank_icon=github&custom_title=Meus%20Status%20&show_icons=true&include_all_commits=true&theme=rose_pine)
 
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MathGueff&layout=donut&hide_title=true&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=MathGueff&layout=donut&hide_title=true&langs_count=4&theme=radical)
 
-###
+---
 
-<h2 align="left">Stats</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathGueff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MathGueff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-</div>
-
-###
-
-<h2 align="left">Contacts</h2>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/matheus-gueff-b74949311/" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin bagde">
-  </a>
-  <a href="mailto:gueffmatheus@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail bagde">
-  </a>
-</div>
-
-
-###
+### Como entrar em contato comigo:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gueff-b74949311/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gueffmatheus@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511999999999)
