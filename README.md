@@ -4,7 +4,7 @@ Atualmente atuo como Desenvolvedor Back-end Júnior desde outubro de 2025, com f
 
 Iniciei minha jornada na programação em 2021, durante o curso Técnico em Desenvolvimento de Sistemas. Atualmente estou finalizando a graduação em Desenvolvimento de Software Multiplataforma e continuo aprimorando meus conhecimentos em back-end por meio de estudos paralelos, com foco em boas práticas de desenvolvimento, arquitetura de software e construção de APIs.
 
-### Sobre mim
+### Um resumo sobre mim:
 
 ```json
 - 💼 Desenvolvedor Back-end Júnior
@@ -25,11 +25,10 @@ Iniciei minha jornada na programação em 2021, durante o curso Técnico em Dese
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   
-### Algumas outras tecnologias que tive contato
+### Outras tecnologias que tive contato
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
@@ -37,6 +36,7 @@ Iniciei minha jornada na programação em 2021, durante o curso Técnico em Dese
 ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
