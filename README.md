@@ -4,12 +4,16 @@ Iniciei minha jornada no Desenvolvimento de Software em 2021 durante o curso de 
 
 ### Sobre mim
 
+```json
 - 💼 Desenvolvedor Back-end Júnior
 - 🎓 Estudante de Desenvolvimento de Software Multiplataforma na Fatec Votorantim
 - 🚀 Priorizando meus estudos em Back-end com NestJS, Node.js e MongoDB
 - 🌱 Estudando boas práticas e me aprofundando em arquitetura de software
 
+```
+
 ---
+
 ### Minhas principais tecnologias
 
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
