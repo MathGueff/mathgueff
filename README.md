@@ -1,94 +1,93 @@
-![Matheus Gueff, Desenvolvedor Back-end](./assets/github-profile-typing.svg)
+<h1 align="left">Welcome!</h2>
 
-![Matheus Gueff, Desenvolvedor Back-end](./assets/rick_sandy_e_eu_v5.png)
+###
 
-> 🤖 Arte gerada por IA
+<h2 align="left">About me</h2>
 
-Atualmente atuo como Desenvolvedor Back-end Júnior desde outubro de 2025, com foco no desenvolvimento e manutenção de aplicações back-end utilizando TypeScript e Node.js. Também sou responsável pela criação de documentações técnicas para apoiar a colaboração entre equipes internas e clientes, além de realizar otimizações, melhorias e correções de bugs nas aplicações.
+###
 
-Iniciei minha jornada na programação em 2021, durante o curso Técnico em Desenvolvimento de Sistemas. Atualmente estou finalizando a graduação em Desenvolvimento de Software Multiplataforma e continuo aprimorando meus conhecimentos em back-end por meio de estudos paralelos, com foco em boas práticas de desenvolvimento, arquitetura de software e construção de APIs.
-
-### Um resumo sobre mim:
-
-```yaml
-- 💼 Desenvolvedor Back-end Júnior
-- 🎓 Estudante de Desenvolvimento de Software Multiplataforma na Fatec Votorantim
-- 🚀 Priorizando meus estudos em Back-end com NestJS, Node.js e MongoDB
-- 🌱 Estudando boas práticas e me aprofundando em arquitetura de software
-- 🐱🐶 Tenho um gato e um cachorro
-
-```
-
----
-
-### Minhas principais tecnologias 
-
-<table>
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
-      Node.js
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=ts" width="50"/><br>
-      TypeScript
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
-      MongoDB
-    </td>
-    <td align="center"  width="150">
-      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
-      JavaScript
-    </td>
-  </tr>
-
-  <tr>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>
-      Express
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>
-      NestJS
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=angular" width="50"/><br>
-      Angular
-    </td>
-    <td align="center" width="150">
-      <img src="https://skillicons.dev/icons?i=sequelize" width="50"/><br>
-      Sequelize
-    </td>
-  </tr>
-</table>
-
-### Também tive contato com
-
-[![Other Skills](https://skillicons.dev/icons?i=java,aws,react,postgres,php,figma)](https://skillicons.dev)
-
----
+<p align="left">
+  👨‍🎓 Pursuing a degree in Multiplatform Software Development at Fatec Votorantim (2024-2026) <br>
+  📚 Programming since 2021 <br>
+  🚀 Looking for an internship to improve my skills, apply my knowledge and contribute to the team. <br>
+  👨‍💻 Currently studying Angular (Front-end) and Java (Back-end) <br>
+  💻🐶 Passionate about technology and my dog! <br><br>
+  And of course, committed to continuous learning to deliver the best result and keep improving
+</p>
 
 
+###
 
-### Meus principais projetos
+<h2 align="left">Technologies</h2>
 
-[![FrontEnd SaneaSP](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=FrontEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=3FE0D0&hide_border=true&icon_color=29C7B8&show_icons=true)](https://github.com/MathGueff/FrontEnd-SaneaSP)
-[![BackEnd SaneaSP](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=BackEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=FF4FA3&hide_border=true&icon_color=FF2D86&show_icons=true)](https://github.com/MathGueff/BackEnd-SaneaSP)
-[![PvZ Adventures](https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=PvZ-Adventures-Fanmade&theme=blueberry&bg_color=1F222E&title_color=A66BFF&hide_border=true&icon_color=8A4FFF&show_icons=true)](https://github.com/MathGueff/PvZ-Adventures-Fanmade)
+###
 
-> Mais projetos em breve...
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="sequelize logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="microsoftsqlserver logo"  />
+</div>
 
----
+###
 
-### Algumas estatísticas:
+## Main projects
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=MathGueff&rank_icon=github&custom_title=Meus%20Status%20&show_icons=true&include_all_commits=true&theme=rose_pine)](https://github-stats-extended.vercel.app/api?username=MathGueff&rank_icon=github&custom_title=Meus%20Status%20&show_icons=true&include_all_commits=true&theme=rose_pine)
+<div align=center>
+  <span><a href="https://github.com/MathGueff/SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=SaneaSP&theme=blueberry&bg_color=1F222E&title_color=b991cf&hide_border=true&icon_color=bf69d3&show_icons=true" alt=saneasp"></a></span>
+  <span><a href="https://github.com/MathGueff/Frontend-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin?username=MathGueff&repo=FrontEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=576fe5&hide_border=true&icon_color=6353e9&show_icons=true" alt="frontend saneasp"></a>
+</span>
+  <span><a href="https://github.com/MathGueff/BackEnd-SaneaSP"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=BackEnd-SaneaSP&theme=blueberry&bg_color=1F222E&title_color=d26a75&hide_border=true&icon_color=de5e75&show_icons=true" alt="backend saneasp"></a></span>
+<span><a href="https://github.com/MathGueff/PvZ-Adventures-Fanmade"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MathGueff&repo=PvZ-Adventures-Fanmade&theme=blueberry&bg_color=1F222E&title_color=38c93d&hide_border=true&icon_color=127015&show_icons=true" alt="backend saneasp"></a></span>
+</div>
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=MathGueff&layout=donut&hide_title=true&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=MathGueff&layout=donut&hide_title=true&langs_count=4&theme=radical)
 
----
+###
 
-### Como entrar em contato comigo:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-gueff-b74949311/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gueffmatheus@gmail.com)
+<h2 align="left">Stats</h2>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MathGueff&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blueberry&hide_border=false&order=2" height="150" alt="languages graph"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MathGueff&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=blueberry&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
+</div>
+
+###
+
+<h2 align="left">Contacts</h2>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/matheus-gueff-b74949311/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin bagde">
+  </a>
+  <a href="mailto:gueffmatheus@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail bagde">
+  </a>
+</div>
+
+
+###
