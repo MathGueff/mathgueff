@@ -21,29 +21,55 @@ Iniciei minha jornada na programação em 2021, durante o curso Técnico em Dese
 
 ---
 
-### Minhas principais tecnologias
+### Minhas principais tecnologias 
 
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-  
-### Outras tecnologias que tive contato
+<table>
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="50"/><br>
+      Node.js
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=ts" width="50"/><br>
+      TypeScript
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="50"/><br>
+      MongoDB
+    </td>
+    <td align="center"  width="150">
+      <img src="https://skillicons.dev/icons?i=js" width="50"/><br>
+      JavaScript
+    </td>
+  </tr>
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=sequelize&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+  <tr>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=express" width="50"/><br>
+      Express
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=nestjs" width="50"/><br>
+      NestJS
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=angular" width="50"/><br>
+      Angular
+    </td>
+    <td align="center" width="150">
+      <img src="https://skillicons.dev/icons?i=sequelize" width="50"/><br>
+      Sequelize
+    </td>
+  </tr>
+</table>
+
+### Também tive contato com
+
+[![Other Skills](https://skillicons.dev/icons?i=java,aws,react,postgres,php,figma)](https://skillicons.dev)
 
 ---
+
+
 
 ### Meus principais projetos
 
