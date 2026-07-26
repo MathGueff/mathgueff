@@ -1,5 +1,7 @@
 ![Matheus Gueff, Desenvolvedor Back-end](./assets/github-profile-typing.svg)
 
+![Matheus Gueff, Desenvolvedor Back-end](./assets/rick_sandy_e_eu_v5.png)
+
 Atualmente atuo como Desenvolvedor Back-end Júnior desde outubro de 2025, com foco no desenvolvimento e manutenção de aplicações back-end utilizando TypeScript e Node.js. Também sou responsável pela criação de documentações técnicas para apoiar a colaboração entre equipes internas e clientes, além de realizar otimizações, melhorias e correções de bugs nas aplicações.
 
 Iniciei minha jornada na programação em 2021, durante o curso Técnico em Desenvolvimento de Sistemas. Atualmente estou finalizando a graduação em Desenvolvimento de Software Multiplataforma e continuo aprimorando meus conhecimentos em back-end por meio de estudos paralelos, com foco em boas práticas de desenvolvimento, arquitetura de software e construção de APIs.
