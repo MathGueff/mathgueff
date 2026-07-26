@@ -1,6 +1,8 @@
 <a href="https://github.com/whiteSHADOW1234/TypingSVG"><img src="https://typingsvg.vercel.app/api/svg?width=1050&height=100&repeat=false&backgroundOpacity=0&center=false&border=false&cursorStyle=underline&deletionBehavior=stay&lines=%5B%7B%22text%22%3A%22Matheus+Gueff%2C+Desenvolvedor+Back-end%22%2C%22font%22%3A%22Exo+2%22%2C%22color%22%3A%22%2336f2e3%22%2C%22fontSize%22%3A36%2C%22letterSpacing%22%3A%220.2%22%2C%22typingSpeed%22%3A0.05%2C%22deleteSpeed%22%3A0.02%2C%22fontWeight%22%3A%22500%22%7D%5D" alt="Matheus Gueff, Desenvolvedor Back-end" /></a>
 
-Iniciei minha jornada no Desenvolvimento de Software em 2021 durante o curso de Desenvolvimento de Sistemas. Atualmente estudo Desenvolvimento de Software Multiplataforma e trabalho como Desenvolvedor Back-end Júnior desenvolvendo APIs robustas, soluções escaláveis e documentações que contribuem para a produtividade e a colaboração da equipe.
+Atualmente atuo como Desenvolvedor Back-end Júnior desde outubro de 2025, com foco no desenvolvimento e manutenção de aplicações back-end utilizando TypeScript e Node.js. Também sou responsável pela criação de documentações técnicas para apoiar a colaboração entre equipes internas e clientes, além de realizar otimizações, melhorias e correções de bugs nas aplicações.
+
+Iniciei minha jornada na programação em 2021, durante o curso Técnico em Desenvolvimento de Sistemas. Atualmente estou finalizando a graduação em Desenvolvimento de Software Multiplataforma e continuo aprimorando meus conhecimentos em back-end por meio de estudos paralelos, com foco em boas práticas de desenvolvimento, arquitetura de software e construção de APIs.
 
 ### Sobre mim
 
